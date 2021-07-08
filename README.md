@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jayasuryaUnisem
 - 👀 I’m interested in Embedded Hardware designing, testing and software development. 
-- 🌱 I’m currently learning embedded c and hardware design
+- 🌱 I’m currently learning embedded c and hardware design.
+- 🏢 I'm working in Unisem Electronics private Limited.
 - 📫 How to reach me --> jayasurya@unisemindia.com
 
 <!---
